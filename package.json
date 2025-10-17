@@ -1,0 +1,23 @@
+{
+  "name": "aquarium_addition",
+  "version": "1.0.0",
+  "description": "A quiz that helps you choose the next addition to your aquarium created for Major League Hacking's Open Source Hackfest 2025.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themagicianking/aquarium_addition.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themagicianking/aquarium_addition/issues"
+  },
+  "homepage": "https://github.com/themagicianking/aquarium_addition#readme",
+  "dependencies": {
+    "@typeform/embed": "^5.5.0"
+  }
+}
